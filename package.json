@@ -1,0 +1,23 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic backend app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "priyanshu rajput"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Priyanshu Rajput",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
